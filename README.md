@@ -17,7 +17,7 @@ This project was built focusing on creating modern, responsive, and maintainable
 
 ---
 
-### 🇪🇸 Español
+### 🇲🇽 Español
 
 Este es mi sitio web de portafolio personal desarrollado para mostrar quién soy, mis habilidades técnicas y los proyectos que he construido.
 
@@ -29,6 +29,7 @@ Proyectos destacados actualmente:
 * 🍽️ Página web para restaurante con menú e información de ubicación
 
 Este proyecto fue desarrollado con enfoque en crear aplicaciones modernas, responsivas y mantenibles.
+
 
 ---
 
